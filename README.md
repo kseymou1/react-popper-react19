@@ -1,3 +1,7 @@
+This is a copy of React Popper with the package.json configurd to allow React 19.  Below are the docs from React Popper
+
+
+
 # React Popper
 
 [![Unit Tests](https://github.com/popperjs/react-popper/workflows/Unit%20Tests/badge.svg)](https://github.com/popperjs/react-popper/actions?query=workflow%3A%22Unit+Tests%22)

@@ -1,7 +1,7 @@
 {
-  "name": "react-popper",
-  "version": "2.3.0",
-  "description": "Official library to use Popper on React projects",
+  "name": "react-popper-react19",
+  "version": "0.0.2",
+  "description": "Copy of [Official library to use Popper on React projects] plus a configuration to allow React 19",
   "license": "MIT",
   "author": "Travis Arnold <travis@souporserious.com> (http://souporserious.com)",
   "contributors": [
